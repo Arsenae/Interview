@@ -1,0 +1,45 @@
+/* Interview */
+
+* {
+	box-sizing: border-box;
+}
+header {
+	background-color: black;
+
+}
+
+body {
+	font-size: 10pt;
+	font-family: Avenir;
+	background-color: slategrey;
+	color: white;
+	line-height: 1.25;
+	margin: 0;
+	padding: 0;
+	
+}
+h1 {
+	font-size: 50pt;
+	font-style: oblique;
+	color: skyblue;
+	padding-left: 2em;
+}
+
+details {
+	padding-left: 1em;
+}
+
+p {
+	font-size: 15pt;
+	font-style: oblique;
+	color: white;
+}
+
+summary {
+	font-size: 20pt;
+	color: cyan;
+	font-weight: bold;
+	line-height: 2em;
+}
+
+
